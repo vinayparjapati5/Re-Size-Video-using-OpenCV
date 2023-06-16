@@ -1,7 +1,7 @@
 # Re-Size-Video-using-OpenCV
 # Methodology
 ![image](https://github.com/vinayparjapati5/Re-Size-Video-using-OpenCV/assets/114856104/d596f581-8a93-4995-af18-db905fd1db27)
-# Code Explaination
+# Code Explanation
 The code you provided performs the following steps:
 
 1. Imports the necessary libraries, `cv2` for computer vision operations and `VideoFileClip` from `moviepy.editor` for video processing.
